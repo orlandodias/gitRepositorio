@@ -1,0 +1,5 @@
+Alguns detalhes da implementação:
+1) Criei a propriedade "idSwapi" na classe Planeta para receber o "id do Planeta" no "swapi.co".
+2) Criei a propriedade "aparicoes" na classe Planeta para receber a "quantidade de aparições" em filmes no "swapi.co".
+3) Ao recuperar, inserir e atualizar algum planeta, a quantidade de aparições é recuperada em "swapi.co".
+4) O único serviço que não busca as "aparições" no "swapi.co" é o que apresenta a lista de planetas.
